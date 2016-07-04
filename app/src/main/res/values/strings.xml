@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Calcul8</string>
+    <string name="result_name">Result</string>
+    <string name="symbol_add">+</string>
+    <string name="symbol_minus">–</string>
+    <string name="symbol_multiply">×</string>
+    <string name="symbol_divide">÷</string>
+    <string name="symbol_equals">=</string>
+
+</resources>
